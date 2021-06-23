@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - PUNE  || 23 Jun 2021 | 03:22:19 PM
+-------------------------------------------------------------
+Current temperature is: 27.04 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 67 %
+Current wind speed    : 6.24 kmph
